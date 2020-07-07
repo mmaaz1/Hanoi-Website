@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HanoiTower/static/css/main.050523cc.chunk.css",
+    "main.js": "/HanoiTower/static/js/main.5fefa878.chunk.js",
+    "main.js.map": "/HanoiTower/static/js/main.5fefa878.chunk.js.map",
+    "runtime-main.js": "/HanoiTower/static/js/runtime-main.693d4528.js",
+    "runtime-main.js.map": "/HanoiTower/static/js/runtime-main.693d4528.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/HanoiTower/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.bdcc4b01.chunk.js": "/HanoiTower/static/js/2.bdcc4b01.chunk.js",
+    "static/js/2.bdcc4b01.chunk.js.map": "/HanoiTower/static/js/2.bdcc4b01.chunk.js.map",
+    "index.html": "/HanoiTower/index.html",
+    "precache-manifest.09b5e759a8506db5bf6ea66cbd861ea2.js": "/HanoiTower/precache-manifest.09b5e759a8506db5bf6ea66cbd861ea2.js",
+    "service-worker.js": "/HanoiTower/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/HanoiTower/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.050523cc.chunk.css.map": "/HanoiTower/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.bdcc4b01.chunk.js.LICENSE.txt": "/HanoiTower/static/js/2.bdcc4b01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.693d4528.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.bdcc4b01.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.5fefa878.chunk.js"
+  ]
+}
